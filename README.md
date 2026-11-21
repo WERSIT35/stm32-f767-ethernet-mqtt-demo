@@ -358,3 +358,6 @@ STM32 main controller
 ```
 
 It can now be extended into a real smart-building system with sensors, relays, RS485 nodes, and cloud communication.
+## License
+
+My application code is MIT licensed, see [LICENSE](LICENSE). The vendor code (STM32 HAL/CMSIS, lwIP and the middleware under `Drivers/` and `Middlewares/`) keeps its original licenses.
